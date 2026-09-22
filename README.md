@@ -25,11 +25,11 @@
 
 - [YAVBT](https://github.com/roy-margasa/YAVBT)
 
-  Yet Another Vue 3 Boilerplate Template. Vue have a lot of features and great libraries, but oftentimes, I forgot how to use them. Even I sometimes forgot how to write `<slot>`! So I created this boilerplate to be some kind of cheatsheet and a starter template for a new project.
+  Yet Another Vue 3 Boilerplate Template. Vue have a lot of features and great libraries, but oftentimes, I forgot how to use them. Even I sometimes forgot how to write `<slot>`! So I created this boilerplate to be some kind of cheatsheet and a starter template for a new project. And I can use this project to learn and implement new things.
 
 - [Bang for Your Chug!](https://roy-margasa.github.io/bang-for-your-chug/)
 
-  Getting intoxicated efficiently! I tried using Vue 3 inside Astro. It can be optimized further, but then, I decided tried to learn React. So I recreated using React!
+  Getting intoxicated efficiently! I tried using Vue 3 inside Astro. It could be optimized, but then, I decided tried to learn React. So I recreated it using React!
 
 - [Simple Todos](https://roy-margasa.github.io/simple-todos/)
 
